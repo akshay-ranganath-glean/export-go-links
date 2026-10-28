@@ -1,0 +1,17 @@
+# Credentials
+.env
+.env.*
+
+# Generated exports (contain destination URLs and author info)
+glean_golinks_export.csv
+glean_golinks_export.json
+
+# Personal agent rules / local config
+AGENTS.local.md
+.devin/config.local.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
